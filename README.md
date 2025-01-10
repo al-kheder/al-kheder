@@ -35,11 +35,10 @@ For a full list, check out [my repositories](https://github.com/yourusername?tab
 
 Currently diving deeper into:
 
-- [Technology or Skill 1, e.g., "Cloud Computing"]
-- [Technology or Skill 2, e.g., "Machine Learning"]
+- I am currently enrolled in a master's school for an intensive course focused on Python and JavaScript technologies.
 
 ---
-
+<!--
 ## 💬 Let's Connect
 
 - **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
@@ -48,5 +47,5 @@ Currently diving deeper into:
 - **Twitter**: [@yourusername](https://twitter.com/yourusername)
 
 ---
-
+-->
 ⭐️ *Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!*
