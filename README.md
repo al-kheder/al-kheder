@@ -24,10 +24,7 @@ Welcome to my GitHub profile! I'm a "Software Developer" passionate about "build
 
 Here are some highlights from my work:
 
-- **[Project Name](link to project)**: Brief description of the project.
-- **[Another Project](link to project)**: Another brief description.
-
-For a full list, check out [my repositories](https://github.com/yourusername?tab=repositories).
+For a full list, check out [my repositories](https://github.com/al-kheder?tab=repositories).
 
 ---
 
@@ -35,7 +32,7 @@ For a full list, check out [my repositories](https://github.com/yourusername?tab
 
 Currently diving deeper into:
 
-- I am currently enrolled in a master's school for an intensive course focused on Python and JavaScript technologies.
+- I am currently enrolled in a masterschool for an intensive course focused on Python and JavaScript technologies (Web development!).
 
 ---
 <!--
