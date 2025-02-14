@@ -13,13 +13,6 @@ Welcome to my GitHub profile! I'm a "Software Developer" passionate about "build
 
 ---
 
-## 📈 GitHub Stats
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al-kheder&layout=compact&theme=radical)](https://github.com/al-kheder)
-
----
-
 ## 🚀 Projects
 
 Here are some highlights from my work:
