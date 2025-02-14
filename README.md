@@ -35,14 +35,14 @@ Currently diving deeper into:
 - I am currently enrolled in a masterschool for an intensive course focused on Python and JavaScript technologies (Web development!).
 
 ---
-<!--
+
 ## 💬 Let's Connect
 
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **Email**: [yourname@example.com](mailto:yourname@example.com)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- **Portfolio**: [Al-kheder](https://aliportfolie.netlify.app/#home)
+- **LinkedIn**: [Al-kheder](https://www.linkedin.com/in/ali-al-kheder)
+- **Email**: [alkhdyyr@gmail.com](mailto:yourname@example.com)
+
 
 ---
--->
+
 ⭐️ *Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!*
