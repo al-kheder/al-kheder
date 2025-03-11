@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm a "Software Developer" passionate about "build
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages**: Python, JavaScript, and familiar with Java, SQL 
-- **Frameworks & Libraries**: React, Nextjs,Django
-- **Tools & Platforms**:VS Code, pycharm, Appwrite cloud, AWS
-- **Databases**:MySQL, PostgreSQL, MongoDB
+- **Programming Languages**: JavaScript/TypeScript, Python, SQL, and familiar with Java, C# 
+- **Frameworks & Libraries**: React, Next.js, Flask, Fast API
+- **Tools & Platforms **: VS Code, PyCharm, Postman, Swagger, AWS, 
+- **Databases**:MySQL, PostgreSQL, MongoDB, SQLite
 
 ---
 
